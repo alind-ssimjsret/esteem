@@ -1,5 +1,5 @@
 [versions]
-computer = "3.1.2"
+computer = "3.4.3"
 
 [libraries]
 computer = { module = "io.ktor:ktor-server-call-logging", version.ref = "computer" }
